@@ -1,0 +1,27 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Project # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+  href: /
+- text: Partners
+  href: /partners/
+- text: Actions
+  menu: # Dropdown menu (one level deep only)
+  - text: Action 1 - 3D Data Acquisition
+    href: /action1/
+  - text: Action 2 - VR Model & Simulation
+    href: /action2/
+  - text: Action 3 - Eye-tracking Acquisition
+    href: /action3/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Related links" # Title for block of menu items
+  - text: University of Mons (UMONS)
+    href: https://web.umons.ac.be/numediart/fr/
+  - text: IMT Lille-Douai
+    href: https://imt-lille-douai.fr/
+  - text: UMONS Project website
+    href: https://web.umons.ac.be/numediart/fr/recherche/projets-phare/transimmersium-interreg/
+  - text: Interreg Project website
+    href: https://www.interreg-fwvl.eu/fr/transimmersium
+    new_window: true
+- text: News
+  href: /blog/
