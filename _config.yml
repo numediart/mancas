@@ -10,7 +10,7 @@ author: Matei MANCAS                    # Used for copyright statement in footer
 # SOCIAL PROFILES
 email: matei.mancas@umons.ac.be           # Social icon in footer
 twitter_username:         # Social icon in footer
-github_username: https://github.com/numediart    # Social icon in footer
+github_username: numediart    # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
