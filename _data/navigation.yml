@@ -3,23 +3,17 @@
 - text: Bio # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
 - text: Research
-  href: /research/
+  href: /teams/
 - text: Punlications
   href: /publications/
 - text: Links
   menu: # Dropdown menu (one level deep only)
-  - text: Action 1 - 3D Data Acquisition
-    href: /action1/
-  - text: Action 2 - VR Model & Simulation
-    href: /action2/
-  - text: Action 3 - Eye-tracking Acquisition
-    href: /action3/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Related links" # Title for block of menu items
   - text: University of Mons (UMONS)
     href: https://www.umons.ac.be/
-  - text: Site Numediart
+  - text: NUMEDIART Institute
     href: https://web.umons.ac.be/numediart
+  - text: ISIA Lab
+    href: https://www.linkedin.com/school/isia-lab-umons/mycompany/
 
     new_window: true
 - text: News
