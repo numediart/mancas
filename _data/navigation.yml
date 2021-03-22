@@ -1,10 +1,12 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Project # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+- text: Bio # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: Partners
-  href: /partners/
-- text: Actions
+- text: Research
+  href: /research/
+- text: Punlications
+  href: /publications/
+- text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Action 1 - 3D Data Acquisition
     href: /action1/
@@ -15,14 +17,11 @@
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Related links" # Title for block of menu items
   - text: University of Mons (UMONS)
-    href: https://web.umons.ac.be/numediart/fr/
+    href: https://www.umons.ac.be/
   - text: Site Numediart
     href: https://web.umons.ac.be/numediart
 
     new_window: true
 - text: News
   href: /blog/
-  
-  ---
-  
-  
+
