@@ -3,24 +3,24 @@ title: Matei MANCAS                        # Title in top navigation bar (navbar
 description: Matei MANCAS UMONS/NUMEDIART webpage # Site description in <head>
 author: Matei MANCAS                    # Used for copyright statement in footer
 #url: "https://numediart.github.io/Transimmersium"  # No slash at the end
-#baseurl: "/Transimmersium"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
+#baseurl: "/mancas"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: matei.mancas@example.com           # Social icon in footer
+email: matei.mancas@umons.ac.be           # Social icon in footer
 twitter_username:         # Social icon in footer
-github_username:           # Social icon in footer
+github_username: https://github.com/numediart    # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
-logo: /assets/img/trans_logo.jpg  # Logo in navbar, will be displayed with 30px height
+logo: /assets/img/UMONS_logo_short.png  # Logo in navbar, will be displayed with 30px height
 colors:
-  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+  links: "#a80039"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#a80039"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#969696"                     # Background color for footer: use color that contrasts well with white
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 
 # BUILD SETTINGS
