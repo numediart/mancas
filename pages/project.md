@@ -7,7 +7,9 @@ permalink: /
 ---
 
 
-{: .alert .alert-info}
+{: .alert .alert-dark}
+
+
 Short Bio:
 
 Matei got a PhD in Applied Sciences from the Polytechnic Faculty of Mons (now within the University of Mons - UMONS, Belgium) end of 2007. 
