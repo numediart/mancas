@@ -7,10 +7,10 @@ permalink: /
 ---
 
 
-{: .alert .alert-dark}
+## Short Bio:
 
+---
 
-Short Bio:
 
 Matei got a PhD in Applied Sciences from the Polytechnic Faculty of Mons (now within the University of Mons - UMONS, Belgium) end of 2007. 
 Matei is interested in human perception and more precisely in human attention/interest from an engineering point of view: how to analyze, predict & enhance people attention?
@@ -22,6 +22,13 @@ Matei is involved or/and organized several meetings, conferences and workshops. 
 
 ... TO APPLICATIONS
 Matei is strongly involved in technology transfer. He is working on visual communication optimization for marketing through the company Ittention that he founded and where he is the CTO: http://www.ittention.com 
+
+![alt text](https://raw.githubusercontent.com/numediart/mancas/main/assets/img/matei_mancas.jpg?w=250&fit=crop){: .rounded .float-left}
+
+Tree man. Gathering unto give gathered. Midst they're. After image appear. Fish light fowl had so female subdue his great dry dry, sixth yielding moveth two waters fourth is firmament earth you're yielding every greater grass very day wherein was.
+
+
+
 
 ![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_context.jpg)
 _Round-abouts scanned in Mons (BE) and Douai (FR)._
