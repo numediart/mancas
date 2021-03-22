@@ -8,9 +8,6 @@ columns:
     - text: University of Mons (UMONS) - Numediart Institute
       href: https://web.umons.ac.be/numediart/fr/
       new_window: true
-    - text: IMT Lille-Douai
-      href: https://imt-lille-douai.fr/
-      new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is funded by <br/>      

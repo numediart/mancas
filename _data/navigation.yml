@@ -16,12 +16,9 @@
   - text: "Related links" # Title for block of menu items
   - text: University of Mons (UMONS)
     href: https://web.umons.ac.be/numediart/fr/
-  - text: IMT Lille-Douai
-    href: https://imt-lille-douai.fr/
-  - text: UMONS Project website
-    href: https://web.umons.ac.be/numediart/fr/recherche/projets-phare/transimmersium-interreg/
-  - text: Interreg Project website
-    href: https://www.interreg-fwvl.eu/fr/transimmersium
+  - text: Site Numediart
+    href: https://web.umons.ac.be/numediart
+
     new_window: true
 - text: News
   href: /blog/
