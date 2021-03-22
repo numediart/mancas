@@ -2,7 +2,7 @@
 layout: home
 title: Matei Mancas
 description: Visual attention & AI
-background: /assets/img/trans_action3_tests1.jpg
+background: /assets/img/banner1.jpg
 permalink: /
 ---
 
@@ -26,4 +26,6 @@ Matei is strongly involved in technology transfer. He is working on visual commu
 ---
 
 More to come ...
+
+---
 

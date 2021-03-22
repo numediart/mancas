@@ -11,7 +11,7 @@ columns:
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       Research funded by [`Région wallonne- SPW`](https://recherche-technologie.wallonie.be/fr/menu/acteurs-institutionnels/service-public-de-wallonie-services-en-charge-de-la-recherche-et-des-technologies/departement-de-la-recherche-et-du-developpement-technologique/direction-des-projets-de-recherche/direction-des-projets-de-recherche.html) <br/>      
-      but also by [`Interreg Fr, Wa, Vl`](https://www.interreg-fwvl.eu)
+      but also by EU, Interreg, FNRS/FRIA, ARES/CCD, WBI, & private funds
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
