@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Partner
 description: Books, Journals, Conferences ...
 background: 
-permalink: /publications/
+permalink: /partners/
 ---
 
 ## Publication list:
