@@ -3,19 +3,21 @@
 - text: Bio # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
 - text: Research
-  href: /teams/
-- text: Punlications
+  href: /team/
+- text: Publications
   href: /publications/
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: University of Mons (UMONS)
     href: https://www.umons.ac.be/
+    new_window: true
   - text: NUMEDIART Institute
     href: https://web.umons.ac.be/numediart
+    new_window: true
   - text: ISIA Lab
     href: https://www.linkedin.com/school/isia-lab-umons/mycompany/
-
     new_window: true
+    
 - text: News
   href: /blog/
 
