@@ -1,16 +1,27 @@
 ---
 layout: home
-title: TRANSIMMERSIUM
-description: Immersive Simulation and Eye-tracking
+title: Matei Mancas
+description: Visual attention & AI
 background: /assets/img/trans_action3_tests1.jpg
 permalink: /
 ---
 
 
 {: .alert .alert-info}
-Project Context & Goal:
+Short Bio:
 
-The problem of the safety of vulnerable users on urban road networks arises in a comparable way on both sides of the French/Belgian border in a densely populated area (1762 hab/km² in Mons and 2410 hab/km² in Douai) with many foreign users (cross-border workers, tourists, etc.). The urban tissues are close but nevertheless have some particularity that may surprise and therefore present dangers that only a joint study can reveal.
+Matei got a PhD in Applied Sciences from the Polytechnic Faculty of Mons (now within the University of Mons - UMONS, Belgium) end of 2007. 
+Matei is interested in human perception and more precisely in human attention/interest from an engineering point of view: how to analyze, predict & enhance people attention?
+
+FROM RESEARCH ...
+__________________________________________________
+Matei's research focuses on computational modelling of attention. This mechanism is used by humans to select "important" features in images, videos or sounds. Matei assumes that computational attention is a step towards true artificial intelligence and it should be used in every algorithm which intends to have an intelligent behaviour. He is interested in bringing attention algorithms into real-life for diverse applications (People interest for marketing optimization, Audio-video abnormal event detection for surveillance, ...).
+Matei is involved or/and organized several meetings, conferences and workshops. He also has an editorial work (books, journals, conferences).
+
+
+... TO APPLICATIONS
+___________________________________________________
+Matei is strongly involved in technology transfer. He is working on visual communication optimization for marketing through the company Ittention that he founded and where he is the CTO: http://www.ittention.com 
 
 ![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_context.jpg)
 _Round-abouts scanned in Mons (BE) and Douai (FR)._
